@@ -32,3 +32,9 @@ Russian (basics)
 - Django project 1
 - Django project 2
 - Dashboart plotly
+
+<style>
+  body {
+    background-color: #f0f0f0;
+  }
+</style>
