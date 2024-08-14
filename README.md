@@ -29,5 +29,6 @@ Russian (basics)
 
 ### Work Experience
 
-- big project 1
-- big project 2
+- Django project 1
+- Django project 2
+- Dashboart plotly
