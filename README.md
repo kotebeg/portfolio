@@ -1,12 +1,12 @@
 email:  kotebg@gmail.com
-
+[linkedin](https://www.linkedin.com/in/kote-begiashvili-117b56116/)
 # Python Developer | Data Scientist
 
 ## TECHNICAL SKILLS
-#### Front End 
-JavaScript, HTML, CSS, Sass npm, bootstrap
 #### Back End 
 Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
+#### Front End 
+JavaScript, HTML, CSS, Sass npm, bootstrap
 
 #### Web Frameworks | API
 Django, Flask
