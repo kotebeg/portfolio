@@ -1,5 +1,5 @@
 email:  kotebg@gmail.com
-[^1][linkedin](https://www.linkedin.com/in/kote-begiashvili-117b56116/)
+<br/>[linkedin](https://www.linkedin.com/in/kote-begiashvili-117b56116/)
 # Python Developer | Data Scientist
 
 ## TECHNICAL SKILLS
