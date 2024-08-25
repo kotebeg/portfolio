@@ -1,6 +1,6 @@
-email:  kotebg@gmail.com | [linkedin profile](https://www.linkedin.com/in/kote-begiashvili-117b56116/) | [github profile](https://github.com/kotebeg)
-# Python Developer | Data Scientist
+email:  kotebg@gmail.com | [linkedin profile](https://www.linkedin.com/in/kote-begiashvili-117b56116/) | [github profile](https://github.com/kotebeg) 
 
+# Python Developer | Data Scientist
 ## TECHNICAL SKILLS
 #### Back End 
 Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
