@@ -31,9 +31,9 @@ Git, npm, linux,
 - Georgian Technical University- PhD. Faculty of Informatics and Control Systems, student
 
 ### LANGUAGES
-- Georgian (native)
-- English (fluently)
-- Russian (basics)
+- Georgian
+- English
+- Russian
 
 
 <style>
