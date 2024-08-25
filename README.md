@@ -1,6 +1,6 @@
 email:  kotebg@gmail.com
-<br/>[linkedin profile](https://www.linkedin.com/in/kote-begiashvili-117b56116/)
-<br/>[github profile](https://github.com/kotebeg)
+:earth_africa:<br/>[linkedin profile](https://www.linkedin.com/in/kote-begiashvili-117b56116/)
+:earth_africa:<br/>[github profile](https://github.com/kotebeg)
 # Python Developer | Data Scientist
 
 ## TECHNICAL SKILLS
