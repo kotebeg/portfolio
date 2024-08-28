@@ -14,16 +14,14 @@ Django, Flask
 NumPy, Pandas, Tensor-Flow, Keras, Scikit-learn, Plotly,Matplotlib, Seaborn, Jupyter Notebook, Anaconda, Goolgle Colab
 
 #### Testing/Deployment
-Selenium, Beautiful Soup, JS Unit testing/Vitest, API testing: Postmen, Insomnia
+Selenium, Beautiful Soup, Py Unittest, pytest, JS Unit testing/Vitest, API testing: Postmen, Insomnia
 
 #### Developer Tools
-Git, npm, linux,
+Git, npm, linux, docker, Kubernetes,
 
 ### Work Experience
 
-- Django project #
-- Django project #
-- Dashboart      #
+- Django project, Django project, Dashboart
 
 ### Education
 - Georgian Technical University- B.E. Faculty of Informatics and Control Systems, 2013
@@ -31,10 +29,7 @@ Git, npm, linux,
 - Georgian Technical University- PhD. Faculty of Informatics and Control Systems, student
 
 ### LANGUAGES
-- Georgian
-- English
-- Russian
-
+- Georgian, English, Russian
 
 <style>
   body {
