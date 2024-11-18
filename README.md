@@ -43,6 +43,7 @@ Git, npm, linux, docker, Kubernetes,
 - Sequences, Time Series and Prediction
   
 ####  MITx 6.0002: Introduction to Computational Thinking and Data Science
+####  Docker & Kubernetes: The Practical Guide
 
 
 
