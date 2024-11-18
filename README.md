@@ -28,6 +28,23 @@ Git, npm, linux, docker, Kubernetes,
 - **M.S.** Electrical Engineering and Telecommunication - Georgian Technical University 
 - **B.E.** Electrical Engineering and Telecommunication - Georgian Technical University
 
+### GRADUATED COURSES
+# Deep Learning Specialization
+- Structuring Machine Learning Projects
+- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- Neural Networks and Deep Learning
+- Convolutional Neural Networks
+- Sequence Models
+
+# DeepLearning.AI TensorFlow Developer Professional Certificate
+- Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+- Convolutional Neural Networks in TensorFlow
+- Natural Language Processing in TensorFlow
+- Sequences, Time Series and Prediction
+  
+# MITx 6.0002: Introduction to Computational Thinking and Data Science
+
+
 
 ### LANGUAGES
 - Georgian, English, Russian
