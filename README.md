@@ -20,7 +20,7 @@ Selenium, Beautiful Soup, Py Unittest, pytest, JS Unit testing/Vitest, API testi
 Git, npm, linux, docker, Kubernetes,
 
 ### Work Experience
-
+- [DEMO: Django,Boostrap, JavaScript, HTML, CSS](https://kotebeg.pythonanywhere.com/app1/)
 - Django project, Django project, Dashboart
 
 ### Education
