@@ -88,7 +88,7 @@ Git, npm, Linux, Docker, Kubernetes
 </p>
 
 <p align="center">
-  <div style="display: flex; overflow: hidden; white-space: nowrap; animation: scroll 10s linear infinite;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 80%; margin: auto;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50">&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50">&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="50">&nbsp;
