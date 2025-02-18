@@ -1,4 +1,19 @@
-email: kotebg@gmail.com | [Linkedin🔗](https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/) | [GitHub🔗](https://github.com/kotebeg) |  [LeetCode🔗](https://leetcode.com/u/kotebeg/)
+
+
+<a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kotebeg" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/kotebeg/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
+</a>
+ &nbsp;&nbsp;
+ Email: kotebg@gmail.com
+
 
 # Python Developer | Data Scientist
 ## TECHNICAL SKILLS
@@ -49,6 +64,8 @@ Git, npm, linux, docker, Kubernetes,
 
 ### LANGUAGES
 - Georgian, English, Russian
+-
+
 
 <style>
   body {
