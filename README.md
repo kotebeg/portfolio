@@ -70,24 +70,23 @@ Git, npm, Linux, Docker, Kubernetes
 ## Skills & Tools
 
 <p align="center">
-  <div style="display: flex; overflow: hidden; white-space: nowrap; animation: scroll 10s linear infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
-  
-
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 80%; margin: auto;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
   </div>
 </p>
+
 <p align="center">
   <div style="display: flex; overflow: hidden; white-space: nowrap; animation: scroll 10s linear infinite;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50">&nbsp;
