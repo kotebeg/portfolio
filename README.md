@@ -46,7 +46,8 @@ Git, npm, Linux, Docker, Kubernetes
 - **M.S.** in Electrical Engineering and Telecommunication - Georgian Technical University 
 - **B.E.** in Electrical Engineering and Telecommunication - Georgian Technical University
 
-## GRADUATED COURSES [🔗](https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/details/certifications/)
+## GRADUATED COURSES <a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/details/certifications/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" alt="link"></a>
+
 ### Deep Learning Specialization
 - Structuring Machine Learning Projects
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
