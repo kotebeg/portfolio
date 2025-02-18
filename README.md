@@ -12,8 +12,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
 </a>
  &nbsp;&nbsp;
-
- <a href="mailto:kotebg@gmail.com">
+<a href="mailto:kotebg@gmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email">
 </a>
 
