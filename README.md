@@ -69,7 +69,7 @@ Git, npm, linux, docker, Kubernetes,
 
 <p align="center">
   <div style="display: flex; overflow: hidden; white-space: nowrap; animation: scroll 10s linear infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50">&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50">&nbsp;
@@ -91,7 +91,10 @@ Git, npm, linux, docker, Kubernetes,
   body {
     background-color: #f0f0f0;
   }
-
+img {
+    border-radius: 8px; 
+    transition: transform 0.3s ease, opacity 0.3s ease;"
+}
 /* @keyframes scroll {
     0% { transform: translateX(100%); }
     100% { transform: translateX(-100%); }
