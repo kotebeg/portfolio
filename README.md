@@ -1,4 +1,4 @@
-email:  kotebg@gmail.com | [linkedin profile](https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/) | [github profile](https://github.com/kotebeg) 
+email:  kotebg@gmail.com | [linkedin](https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/) | [GitHub](https://github.com/kotebeg) |  [LeetCode](https://leetcode.com/u/kotebeg/)
 
 # Python Developer | Data Scientist
 ## TECHNICAL SKILLS
