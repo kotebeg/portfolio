@@ -110,10 +110,10 @@
 
   p {
     font-size: 16px;
-    color: #555;
+/*     color: #555;
     padding: 10px;
     margin-top: 1px;
-    margin-bottom: 16px; 
+    margin-bottom: 16px;  */
   }
 
   img {
