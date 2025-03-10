@@ -1,6 +1,6 @@
 <h1>Python Developer | Data Scientist</h1>
 
-## Contact Me
+<h2>Contact Me</h2> 
 <p align="center">
   <a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
@@ -27,23 +27,23 @@ Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
 
 JavaScript, HTML, CSS, Sass, npm, bootstrap
 
-### Web Frameworks | API
+<h2>Web Frameworks | API</h2>
 Django, Flask
 
-### Data Science
+<h2> Data Science </h2>
 NumPy, Pandas, TensorFlow, Keras, Scikit-learn, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Anaconda, Google Colab
 
-### Testing/Deployment
+<h2> Testing/Deployment </h2>
 Selenium, BeautifulSoup, Py Unittest, pytest, JS Unit testing/Vitest, API testing: Postman, Insomnia
 
-### Developer Tools
+<h2> Developer Tools </h2>
 Git, npm, Linux, Docker, Kubernetes
 
-## Work Experience
+<h2> Projects </h2>
 - [DEMO 1 Bootstrap Sign-in: Django, Bootstrap, JavaScript, HTML, CSS; deployed on PythonAnywhere](https://kotebeg.pythonanywhere.com/app1/)
 - Django Project, Dashboard Project
 
-## Education
+<h2> Education </h2>
 - **PhD** in Informatics and Control Systems - Georgian Technical University
 - **M.S.** in Electrical Engineering and Telecommunication - Georgian Technical University 
 - **B.E.** in Electrical Engineering and Telecommunication - Georgian Technical University
