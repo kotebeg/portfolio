@@ -144,3 +144,46 @@ Git, npm, Linux, Docker, Kubernetes
     100% { transform: translateX(-100%); }
   } */
 </style>
+
+
+<style>
+  .social-bar {
+    position: fixed;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  .social-bar a img {
+    display: block;
+    margin: 10px auto;
+    width: 30px;
+    height: 30px;
+    transition: transform 0.3s ease;
+  }
+  .social-bar a img:hover {
+    transform: scale(1.2);
+  }
+</style>
+
+<div class="social-bar">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter">
+  </a>
+  <a href="https://youtube.com/yourchannel" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube">
+  </a>
+  <a href="https://github.com/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
+  </a>
+  <a href="https://yourblog.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/open-book.png" alt="Blog">
+  </a>
+</div>
+
