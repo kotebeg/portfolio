@@ -1,22 +1,22 @@
-<h1>Python Developer | Data Scientist</h1>
+** Python Developer | Data Scientist **
 
-<h1>TECHNICAL SKILLS</h1>
-<h2>Back End </h2> <a></a>
+ **TECHNICAL SKILLS **
+ **Back End  **
 - Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
 
-<h2>Front End</h2>
+ **Front End **
 - JavaScript, HTML, CSS, Sass, npm, bootstrap
 
 <h2>Web Frameworks | API</h2>
 - Django, Flask
 
-<h2> Data Science </h2>
+ ** Data Science  **
 - NumPy, Pandas, TensorFlow, Keras, Scikit-learn, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Anaconda, Google Colab
 
-<h2> Testing/Deployment </h2>
+ ** Testing/Deployment  **
 - Selenium, BeautifulSoup, Py Unittest, pytest, JS Unit testing/Vitest, API testing: Postman, Insomnia
 
-<h2> Developer Tools </h2>
+ ** Developer Tools **
 - Git, npm, Linux, Docker, Kubernetes
 
 ## 📌 My Projects
@@ -27,7 +27,7 @@
 | 🔥 **Project 2** | Django Project, Dashboard Project |
 | 🎨 **Project 3** | [View Here](https://yourproject3.com) |
 
-<h2> Education </h2>
+ ** Education **
 - **PhD** in Informatics and Control Systems - Georgian Technical University
 - **M.S.** in Electrical Engineering and Telecommunication - Georgian Technical University 
 - **B.E.** in Electrical Engineering and Telecommunication - Georgian Technical University
@@ -50,10 +50,10 @@
 - MITx 6.0002: Introduction to Computational Thinking and Data Science
 - Docker & Kubernetes: The Practical Guide
 
-<h2>  LANGUAGES </h2>
+ ** LANGUAGES **
 - Georgian, English, Russian
 
-<h2> Skills & Tools </h2>
+ ** Skills & Tools  **
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 80%; margin: auto;">
