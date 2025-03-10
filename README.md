@@ -20,11 +20,10 @@
 </p>
 
 <h1>TECHNICAL SKILLS</h1>
-<h2>Back End </h2>
+<h2>Back End </h2> <a></a>
 Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
 
 <h2>Front End</h2>
-
 JavaScript, HTML, CSS, Sass, npm, bootstrap
 
 <h2>Web Frameworks | API</h2>
