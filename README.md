@@ -175,20 +175,20 @@ Git, npm, Linux, Docker, Kubernetes
 </style>
 
 <div class="social-bar">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter">
+  <a href="https://github.com/kotebeg" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
   </a>
-  <a href="https://youtube.com/yourchannel" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="YouTube">
+  <a href="https://leetcode.com/u/kotebeg/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
   </a>
   <a href="https://github.com/yourprofile" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
   </a>
-  <a href="https://yourblog.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/open-book.png" alt="Blog">
+  <a href="mailto:kotebeg@gmail.com">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email">
   </a>
 </div>
 
