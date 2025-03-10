@@ -1,24 +1,5 @@
 <h1>Python Developer | Data Scientist</h1>
 
-<h2>Contact Me</h2> 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/kotebeg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/kotebeg/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kotebeg@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email">
-  </a>
-</p>
-
 <h1>TECHNICAL SKILLS</h1>
 <h2>Back End </h2> <a></a>
 - Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
@@ -27,7 +8,7 @@
 - JavaScript, HTML, CSS, Sass, npm, bootstrap
 
 <h2>Web Frameworks | API</h2>
-Django, Flask
+- Django, Flask
 
 <h2> Data Science </h2>
 - NumPy, Pandas, TensorFlow, Keras, Scikit-learn, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Anaconda, Google Colab
@@ -37,7 +18,6 @@ Django, Flask
 
 <h2> Developer Tools </h2>
 - Git, npm, Linux, Docker, Kubernetes
-
 
 ## 📌 My Projects
 
@@ -67,13 +47,13 @@ Django, Flask
 - NLP in TensorFlow
 - Sequences, Time Series, and Prediction
 
-### MITx 6.0002: Introduction to Computational Thinking and Data Science
-### Docker & Kubernetes: The Practical Guide
+- MITx 6.0002: Introduction to Computational Thinking and Data Science
+- Docker & Kubernetes: The Practical Guide
 
-## LANGUAGES
+<h2>  LANGUAGES </h2>
 - Georgian, English, Russian
 
-## Skills & Tools
+<h2> Skills & Tools </h2>
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 80%; margin: auto;">
@@ -108,9 +88,10 @@ Django, Flask
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="50" height="50">&nbsp;
   </div>
 </p>
+
 <style>
   body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto';
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
@@ -119,6 +100,7 @@ Django, Flask
 
   h1, h2, h3 {
     color: #333;
+    padding: 10px;
   }
 
   p {
