@@ -1,22 +1,23 @@
-** Python Developer | Data Scientist **
+**Python Developer | Data Scientist**
 
- **TECHNICAL SKILLS **
- **Back End  **
+ **TECHNICAL SKILLS**
+ 
+ **Back End**
 - Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
 
- **Front End **
+ **Front End**
 - JavaScript, HTML, CSS, Sass, npm, bootstrap
 
-<h2>Web Frameworks | API</h2>
+ **Web Frameworks | API**
 - Django, Flask
 
- ** Data Science  **
+ **Data Science**
 - NumPy, Pandas, TensorFlow, Keras, Scikit-learn, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Anaconda, Google Colab
 
- ** Testing/Deployment  **
+ **Testing/Deployment**
 - Selenium, BeautifulSoup, Py Unittest, pytest, JS Unit testing/Vitest, API testing: Postman, Insomnia
 
- ** Developer Tools **
+ **Developer Tools**
 - Git, npm, Linux, Docker, Kubernetes
 
 ## 📌 My Projects
@@ -27,21 +28,21 @@
 | 🔥 **Project 2** | Django Project, Dashboard Project |
 | 🎨 **Project 3** | [View Here](https://yourproject3.com) |
 
- ** Education **
+ **Education**
 - **PhD** in Informatics and Control Systems - Georgian Technical University
 - **M.S.** in Electrical Engineering and Telecommunication - Georgian Technical University 
 - **B.E.** in Electrical Engineering and Telecommunication - Georgian Technical University
 
 ## GRADUATED COURSES <a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/details/certifications/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" alt="link"></a>
 
-### Deep Learning Specialization
+ **Deep Learning Specialization**
 - Structuring Machine Learning Projects
 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
 - Neural Networks and Deep Learning
 - Convolutional Neural Networks
 - Sequence Models
 
-### DeepLearning.AI TensorFlow Developer Professional Certificate
+ **DeepLearning.AI TensorFlow Developer Professional Certificate**
 - Introduction to TensorFlow for AI, ML, and DL
 - Convolutional Neural Networks in TensorFlow
 - NLP in TensorFlow
@@ -50,10 +51,10 @@
 - MITx 6.0002: Introduction to Computational Thinking and Data Science
 - Docker & Kubernetes: The Practical Guide
 
- ** LANGUAGES **
+ **LANGUAGES**
 - Georgian, English, Russian
 
- ** Skills & Tools  **
+ **Skills & Tools**
 
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 80%; margin: auto;">
