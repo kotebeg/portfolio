@@ -19,11 +19,12 @@
   </a>
 </p>
 
-## TECHNICAL SKILLS
-### Back End 
+<h1>TECHNICAL SKILLS</h1>
+<h2>Back End </h2>
 Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
 
-### Front End 
+<h2>Front End</h2>
+
 JavaScript, HTML, CSS, Sass, npm, bootstrap
 
 ### Web Frameworks | API
