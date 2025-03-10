@@ -101,12 +101,19 @@
   h1, h2, h3 {
     color: #333;
     padding: 10px;
+    margin-top: 1px;
+    margin-bottom: 16px; 
+    font-weight: 600; 
+    line-height: 1.25;
   }
 
   p {
     font-size: 16px;
     text-align: center;
     color: #555;
+    padding: 10px;
+    margin-top: 1px;
+    margin-bottom: 16px; 
   }
 
   img {
