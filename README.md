@@ -1,4 +1,5 @@
-# Python Developer | Data Scientist
+<h1>Python Developer | Data Scientist</h1>
+
 ## Contact Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/" target="_blank">
