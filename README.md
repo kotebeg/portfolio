@@ -38,9 +38,14 @@ Selenium, BeautifulSoup, Py Unittest, pytest, JS Unit testing/Vitest, API testin
 <h2> Developer Tools </h2>
 Git, npm, Linux, Docker, Kubernetes
 
-<h2> Projects </h2>
-- [DEMO 1 Bootstrap Sign-in: Django, Bootstrap, JavaScript, HTML, CSS; deployed on PythonAnywhere](https://kotebeg.pythonanywhere.com/app1/)
-- Django Project, Dashboard Project
+
+## 📌 My Projects
+
+| 🌟 Projects | 🔗 Links |
+|------------|---------|
+| 🚀 **Project 1** |[DEMO 1 Bootstrap Sign-in: Django, Bootstrap, JavaScript, HTML, CSS; deployed on PythonAnywhere](https://kotebeg.pythonanywhere.com/app1/) |
+| 🔥 **Project 2** | Django Project, Dashboard Project |
+| 🎨 **Project 3** | [View Here](https://yourproject3.com) |
 
 <h2> Education </h2>
 - **PhD** in Informatics and Control Systems - Georgian Technical University
@@ -186,4 +191,5 @@ Git, npm, Linux, Docker, Kubernetes
     <img src="https://img.icons8.com/ios-filled/50/000000/open-book.png" alt="Blog">
   </a>
 </div>
+
 
