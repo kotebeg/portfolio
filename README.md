@@ -1,4 +1,4 @@
-**Python Developer | Data Scientist**
+**Python Developer** **Data Scientist**
 
  **TECHNICAL SKILLS**
  
