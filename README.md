@@ -110,7 +110,6 @@
 
   p {
     font-size: 16px;
-    text-align: center;
     color: #555;
     padding: 10px;
     margin-top: 1px;
