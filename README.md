@@ -21,22 +21,22 @@
 
 <h1>TECHNICAL SKILLS</h1>
 <h2>Back End </h2> <a></a>
-Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
+- Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
 
 <h2>Front End</h2>
-JavaScript, HTML, CSS, Sass, npm, bootstrap
+- JavaScript, HTML, CSS, Sass, npm, bootstrap
 
 <h2>Web Frameworks | API</h2>
 Django, Flask
 
 <h2> Data Science </h2>
-NumPy, Pandas, TensorFlow, Keras, Scikit-learn, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Anaconda, Google Colab
+- NumPy, Pandas, TensorFlow, Keras, Scikit-learn, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Anaconda, Google Colab
 
 <h2> Testing/Deployment </h2>
-Selenium, BeautifulSoup, Py Unittest, pytest, JS Unit testing/Vitest, API testing: Postman, Insomnia
+- Selenium, BeautifulSoup, Py Unittest, pytest, JS Unit testing/Vitest, API testing: Postman, Insomnia
 
 <h2> Developer Tools </h2>
-Git, npm, Linux, Docker, Kubernetes
+- Git, npm, Linux, Docker, Kubernetes
 
 
 ## 📌 My Projects
