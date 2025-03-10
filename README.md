@@ -184,9 +184,9 @@ Git, npm, Linux, Docker, Kubernetes
   <a href="https://leetcode.com/u/kotebeg/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
   </a>
-  <a href="https://github.com/yourprofile" target="_blank">
+<!--   <a href="https://github.com/yourprofile" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
-  </a>
+  </a> -->
   <a href="mailto:kotebeg@gmail.com">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email">
   </a>
