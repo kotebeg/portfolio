@@ -24,7 +24,7 @@
 
 | 🌟 Projects | 🔗 Links |
 |------------|---------|
-| 🚀 **Project 1** |[DEMO 1 Bootstrap Sign-in: Django, Bootstrap, JavaScript, HTML, CSS; deployed on PythonAnywhere]([https://kotebeg.pythonanywhere.com/app1/](https://kotebeg.pythonanywhere.com/login/) |
+| 🚀 **Project 1** |[DEMO 1 Bootstrap Sign-in: Django, Bootstrap, JavaScript, HTML, CSS; deployed on PythonAnywhere]([https://kotebeg.pythonanywhere.com/login/] |
 | 🔥 **Project 2** | Django Project, Dashboard Project |
 | 🎨 **Project 3** | [View Here](https://yourproject3.com) |
 
