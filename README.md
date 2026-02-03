@@ -1,7 +1,7 @@
 # Kote Begiashvili, PhD
 
 <p>
-  <strong>Python Developer</strong> &bull; <strong>Data Scientist</strong>
+  <strong>Python Developer</strong> &bull; <strong>Data Scientist</strong> &bull; <strong>Data Engineer</strong>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/)
