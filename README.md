@@ -1,183 +1,125 @@
-**Python Developer** **Data Scientist**
+# Kote Begiashvili, PhD
 
- **TECHNICAL SKILLS**
- 
- **Back End**
-- Python, JavaScript, SQL, MSSQL, PostgreSQL, MongoDB
+**Python Developer | Data Scientist**
 
- **Front End**
-- JavaScript, HTML, CSS, Sass, npm, bootstrap
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kotebeg)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kotebeg/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotebeg@gmail.com)
 
- **Web Frameworks | API**
-- Django, Flask
+---
 
- **Data Science**
-- NumPy, Pandas, TensorFlow, Keras, Scikit-learn, Plotly, Matplotlib, Seaborn, Jupyter Notebook, Anaconda, Google Colab
+## About Me
 
- **Testing/Deployment**
-- Selenium, BeautifulSoup, Py Unittest, pytest, JS Unit testing/Vitest, API testing: Postman, Insomnia
+Python Developer and Data Scientist with a PhD in Informatics and Control Systems. Experienced in building web applications with Django/Flask and developing machine learning solutions using TensorFlow and scikit-learn.
 
- **Developer Tools**
-- Git, npm, Linux, Docker, Kubernetes
+---
 
-## 📌 My Projects
+## Technical Skills
 
-| 🌟 Projects | 🔗 Links |
-|------------|---------|
-| 🚀 **Project 1** |[DEMO 1 Bootstrap Sign-in: Django, Bootstrap, JavaScript, HTML, CSS; deployed on PythonAnywhere](https://kotebeg.pythonanywhere.com/login/) |
-| 🔥 **Project 2** | Django Project, Dashboard Project |
-| 🎨 **Project 3** | [View Here](https://yourproject3.com) |
+### Back End
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
- **Education**
-- **PhD** in Informatics and Control Systems - Georgian Technical University
-- **M.S.** in Electrical Engineering and Telecommunication - Georgian Technical University 
-- **B.E.** in Electrical Engineering and Telecommunication - Georgian Technical University
+### Front End
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-## GRADUATED COURSES <a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/details/certifications/" target="_blank"> <img src="https://img.icons8.com/ios-glyphs/30/000000/link.png" alt="link"></a>
+### Web Frameworks & API
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
- **Deep Learning Specialization**
-- Structuring Machine Learning Projects
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization, and Optimization
+### Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### Testing & Deployment
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Django Sign-in Demo**](https://kotebeg.pythonanywhere.com/login/) | Authentication system with Bootstrap UI | Django, Bootstrap, JavaScript |
+| **Dashboard Project** | *Coming soon* | Django, Charts.js |
+
+---
+
+## Education
+
+| Degree | Field | Institution |
+|--------|-------|-------------|
+| **PhD** | Informatics and Control Systems | Georgian Technical University |
+| **M.S.** | Electrical Engineering and Telecommunication | Georgian Technical University |
+| **B.E.** | Electrical Engineering and Telecommunication | Georgian Technical University |
+
+---
+
+## Certifications
+
+[![View All Certifications](https://img.shields.io/badge/View_All_Certifications-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/details/certifications/)
+
+### Deep Learning Specialization
 - Neural Networks and Deep Learning
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
+- Structuring Machine Learning Projects
 - Convolutional Neural Networks
 - Sequence Models
 
- **DeepLearning.AI TensorFlow Developer Professional Certificate**
+### DeepLearning.AI TensorFlow Developer Professional Certificate
 - Introduction to TensorFlow for AI, ML, and DL
 - Convolutional Neural Networks in TensorFlow
 - NLP in TensorFlow
 - Sequences, Time Series, and Prediction
 
+### Other Courses
 - MITx 6.0002: Introduction to Computational Thinking and Data Science
 - Docker & Kubernetes: The Practical Guide
 
- **LANGUAGES**
-- Georgian, English, Russian
+---
 
- **Skills & Tools**
+## Languages
+
+![Georgian](https://img.shields.io/badge/Georgian-Native-green?style=flat-square)
+![English](https://img.shields.io/badge/English-Fluent-blue?style=flat-square)
+![Russian](https://img.shields.io/badge/Russian-Fluent-blue?style=flat-square)
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 80%; margin: auto;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="border-radius: 8px; transition: transform 0.3s ease, opacity 0.3s ease;">
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kotebeg&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px; max-width: 80%; margin: auto;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="50" height="50">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="50">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="50">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="50" height="50">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50">&nbsp;
-<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" width="50" height="50">&nbsp; -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50" height="50">&nbsp;
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="50" height="50">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50" height="50">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="50" height="50">&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="50" height="50">&nbsp;
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotebeg&layout=compact" alt="Top Languages" />
 </p>
 
-<style>
-  body {
-    font-family: 'Roboto';
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-    color: #333;
-  }
+---
 
-  h1, h2, h3 {
-    color: #333;
-    padding: 10px;
-    margin-top: 1px;
-    margin-bottom: 16px; 
-    font-weight: 600; 
-    line-height: 1.25;
-  }
-
-  p {
-    font-size: 16px;
-/*     color: #555;
-    padding: 10px;
-    margin-top: 1px;
-    margin-bottom: 16px;  */
-  }
-
-  img {
-    border-radius: 8px;
-    transition: transform 0.3s ease, opacity 0.3s ease;
-  }
-
-  img:hover {
-    transform: scale(1.1);
-    opacity: 0.8;
-  }
-
-  .skills {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-  }
-
-/*   @keyframes scroll {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
-  } */
-</style>
-
-
-<style>
-  .social-bar {
-    position: fixed;
-    top: 50%;
-    left: 10px;
-    transform: translateY(-50%);
-    background: white;
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-  }
-  .social-bar a img {
-    display: block;
-    margin: 10px auto;
-    width: 30px;
-    height: 30px;
-    transition: transform 0.3s ease;
-  }
-  .social-bar a img:hover {
-    transform: scale(1.2);
-  }
-</style>
-
-<div class="social-bar">
-  <a href="https://www.linkedin.com/in/kote-begiashvili-phd-117b56116/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
-  </a>
-  <a href="https://github.com/kotebeg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
-  </a>
-  <a href="https://leetcode.com/u/kotebeg/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" height="30">
-  </a>
-<!--   <a href="https://github.com/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub">
-  </a> -->
-  <a href="mailto:kotebeg@gmail.com">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email">
-  </a>
-</div>
-
-
+<p align="center">
+  <i>Open to collaboration and new opportunities!</i>
+</p>
